@@ -5,19 +5,19 @@ import '../css/categoryGrid.css';
 const categories = [
   {
     title: 'Dresses',
-    image: 'images/products/kri.jpg',
+    image: 'pheraz/images/products/kri.jpg',
   },
   {
     title: 'Tops',
-    image: 'images/products/kri.jpg',
+    image: 'pheraz/images/products/kri.jpg',
   },
   {
     title: 'Bottoms',
-    image: 'images/products/kri.jpg',
+    image: 'pheraz/images/products/kri.jpg',
   },
   {
     title: 'Coord Sets',
-    image: 'images/products/kri.jpg',
+    image: 'pheraz/images/products/kri.jpg',
   },
 ];
 
@@ -25,7 +25,7 @@ const CategoryGrid = () => {
   return (
     <div className="category-section">
       <div className="left-hero">
-        <img src="images/products/kri.jpg" alt="Hero" className="hero-img" />
+        <img src="pheraz/images/products/kri.jpg" alt="Hero" className="hero-img" />
         <div className="category-label">New Arrivals</div>
       </div>
 

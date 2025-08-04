@@ -44,7 +44,7 @@ const Navbar = () => {
                 {/* Desktop Menu */}
                 {!isMobile && (
                     <Box sx={{ display: 'flex', gap: 2, alignItems: 'center' }}>
-                        <Button component={Link} to="/" color="inherit">Home</Button>
+                        <Button component={Link} to="/pheraz" color="inherit">Home</Button>
                         <Button
                             color="inherit"
                             onClick={handleMenuOpen}
@@ -56,8 +56,8 @@ const Navbar = () => {
                             <MenuItem onClick={handleMenuClose} component={Link} to="/category/tops">Tops</MenuItem>
                             <MenuItem onClick={handleMenuClose} component={Link} to="/category/accessories">Accessories</MenuItem>
                         </Menu>
-                        <Button component={Link} to="/about" color="inherit">About Us</Button>
-                        <Button component={Link} to="/contact" color="inherit">Contact Us</Button>
+                        <Button component={Link} to="/pheraz/about" color="inherit">About Us</Button>
+                        <Button component={Link} to="/pheraz/contact" color="inherit">Contact Us</Button>
                     </Box>
                 )}
 
