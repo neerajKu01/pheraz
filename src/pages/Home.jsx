@@ -35,37 +35,37 @@ const Home = () => {
   const products = [
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: "src/images/products/kri.jpg",
+      imagePath: "/public/images/products/kri.jpg",
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: 'src/images/products/kri.jpg',
+      imagePath: '/public/images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: 'src/images/products/kri.jpg',
+      imagePath: '/public/images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: 'src/images/products/kri.jpg',
+      imagePath: '/public/images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: 'src/images/products/kri.jpg',
+      imagePath: '/public/images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: 'src/images/products/kri.jpg',
+      imagePath: '/public/images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: 'src/images/products/kri.jpg',
+      imagePath: '/public/images/products/kri.jpg',
       description: 'Price 599.',
     },
     // Add more items...
