@@ -7,13 +7,13 @@ const contentStyle = {
 const App = () => (
   <Carousel autoplay>
     <div style={contentStyle}>
-      <img style={{ width: "100%", height: "400px" }} src="/public/images/slider/img1.jpeg" alt="Shiv" srcset="" />
+      <img style={{ width: "100%", height: "400px" }} src="images/slider/img1.jpeg" alt="Shiv"/>
     </div>
     <div style={contentStyle}>
-      <img style={{ width: "100%", height: "400px" }} src="/public/images/slider/img2.jpeg" alt="Krishna" srcset="" />
+      <img style={{ width: "100%", height: "400px" }} src="images/slider/img2.jpeg" alt="Krishna"/>
     </div>
     <div style={contentStyle}>
-      <img style={{ width: "100%", height: "400px" }} src="/public/images/slider/img3.jpeg" alt="Ram" srcset="" />
+      <img style={{ width: "100%", height: "400px" }} src="images/slider/img3.jpeg" alt="Ram"/>
     </div>
   </Carousel>
 );

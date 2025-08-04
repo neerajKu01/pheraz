@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-escape */
 import { Card, CardContent, CardMedia, Typography } from '@mui/material';
 import HeroCarousel from '../components/HeroCarousel.jsx';
 import { Col, Row } from 'antd';
@@ -35,37 +36,37 @@ const Home = () => {
   const products = [
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: "/public/images/products/kri.jpg",
+      imagePath: "images/products/kri.jpg",
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: '/public/images/products/kri.jpg',
+      imagePath: 'images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: '/public/images/products/kri.jpg',
+      imagePath: 'images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: '/public/images/products/kri.jpg',
+      imagePath: 'images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: '/public/images/products/kri.jpg',
+      imagePath: 'images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: '/public/images/products/kri.jpg',
+      imagePath: 'images/products/kri.jpg',
       description: 'Price 599.',
     },
     {
       title: 'Sunspell - off white flowy dress with mustard corset',
-      imagePath: '/public/images/products/kri.jpg',
+      imagePath: 'images/products/kri.jpg',
       description: 'Price 599.',
     },
     // Add more items...
