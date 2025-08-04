@@ -5,19 +5,19 @@ import '../css/categoryGrid.css';
 const categories = [
   {
     title: 'Dresses',
-    image: 'pheraz/images/products/kri.jpg',
+    image: 'https://neerajku01.github.io/pheraz/images/products/kri.jpg',
   },
   {
     title: 'Tops',
-    image: 'pheraz/images/products/kri.jpg',
+    image: 'https://neerajku01.github.io/pheraz/images/products/kri.jpg',
   },
   {
     title: 'Bottoms',
-    image: 'pheraz/images/products/kri.jpg',
+    image: 'https://neerajku01.github.io/pheraz/images/products/kri.jpg',
   },
   {
     title: 'Coord Sets',
-    image: 'pheraz/images/products/kri.jpg',
+    image: 'https://neerajku01.github.io/pheraz/images/products/kri.jpg',
   },
 ];
 
@@ -25,7 +25,7 @@ const CategoryGrid = () => {
   return (
     <div className="category-section">
       <div className="left-hero">
-        <img src="pheraz/images/products/kri.jpg" alt="Hero" className="hero-img" />
+        <img src="https://neerajku01.github.io/pheraz/images/products/kri.jpg" alt="Hero" className="hero-img" />
         <div className="category-label">New Arrivals</div>
       </div>
 
